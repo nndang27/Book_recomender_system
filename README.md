@@ -26,7 +26,9 @@ Data:
      MF_final_parameter_X_W_b_d_version2.npz: checkpoint for MF(W, X, b, d)
      
      Sai_so2.npz: RMSE_train, RMSE_test, loss on 100 epochs
-=======================================================================================================
+     
+===========================================================================
+
 KNN: 
 
 Notebook: KNN.ipynb
@@ -44,7 +46,9 @@ To evaluate:
 To infer:
 
       Run print_recommendation_for_1_user() with input parameter is specific user's id.
-=========================================================================================================
+      
+=======================================================================================
+
 Matrix Factorization:
 
 Notebook: MatrixFactorization.ipynb
