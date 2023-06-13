@@ -1,7 +1,10 @@
 # Book_recomender_system
+
 A recomender sytem to predict user's reading interest by using content-base, KNN, and Matrix Factorization
 Quick Guide
+
 Almost libraries is already installed by Google Colab. Else if you run this on your local, please run "pip install -r requirements.txt"
+
 Data:
      train1.csv: training set
      test1.csv: test set
